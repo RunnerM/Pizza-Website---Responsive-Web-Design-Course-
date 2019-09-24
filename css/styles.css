@@ -1,0 +1,35 @@
+* {
+    font-size: 1.2em;
+}
+
+body {
+    background-image: url("../images/Pizza.png");
+}
+
+h1 {
+    color: #ff0000;
+    font-family: "Bahnschrift", Monospaced;
+}
+a{
+    font-family: "Broadway", monospace;
+}
+
+h1 {
+    color: #0000FF !important;
+}
+
+img {
+    padding: 1px;
+    border: 0.3em solid #0bff00;
+    background-color: #ff0;
+}
+figcaption{
+    font-size: medium;
+}
+#header {
+    color: #00FF00;
+}
+
+li {
+    font-size: 0.7em;
+}
